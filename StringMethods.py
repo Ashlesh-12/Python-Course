@@ -1,42 +1,42 @@
-# #length of a string
-# name = input("Enter your full name: ")
-# print(len(name))
+#length of a string
+name = input("Enter your full name: ")
+print(len(name))
 
-# # find method
-# name1 = input("Enter your name: ")
-# print(name1.find("l"))
+# find method
+name1 = input("Enter your name: ")
+print(name1.find("l"))
 
-# # find method (reverse or last occurance)
-# name2 = input("Enter your name: ")
-# print(name2.rfind("s"))
+# find method (reverse or last occurance)
+name2 = input("Enter your name: ")
+print(name2.rfind("s"))
 
-# # Capatilize
-# name3 = input("Enter your name: ")
-# print(name3.capitalize())
+# Capatilize
+name3 = input("Enter your name: ")
+print(name3.capitalize())
 
-# # Uppercase
-# name4 = input("Enter your name: ")
-# print(name4.upper())
+# Uppercase
+name4 = input("Enter your name: ")
+print(name4.upper())
 
-# # Lowercase
-# name5 = input("Enter your name: ")
-# print(name5.lower())
+# Lowercase
+name5 = input("Enter your name: ")
+print(name5.lower())
 
-# # isdigit
-# name6 = input("Enter your name: ")
-# print(name6.isdigit())
+# isdigit
+name6 = input("Enter your name: ")
+print(name6.isdigit())
 
-# #isalpha
-# name7 = input("Enter your name: ")
-# print(name7.isalpha())
+#isalpha
+name7 = input("Enter your name: ")
+print(name7.isalpha())
 
-# #Count
-# phone_number = input("Enter your phone number: ")
-# print(phone_number.count("7"))
+#Count
+phone_number = input("Enter your phone number: ")
+print(phone_number.count("7"))
 
-# #replace
-# phone_number = input("Enter your phone number: ")
-# print(phone_number.replace("-", " "))
+#replace
+phone_number = input("Enter your phone number: ")
+print(phone_number.replace("-", " "))
 
 # validate user input exercise
 # 1. username is no more than 12 characters
